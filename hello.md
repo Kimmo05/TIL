@@ -5,7 +5,11 @@ git init
 git add README.md 
 git commit -m "first commit" 
 git branch -M main 
+<<<<<<< HEAD
 git remote add origin https://github.com/Kimmo05/TIL.git
+=======
+git remote add origin https://github.com/Kimmo05/coding- test-java.git
+>>>>>>> 818eac1a0802c3f3f355a9fa5f4332c370b6ba6b
  git push -u origin main
 
 commit 하기
@@ -52,7 +56,10 @@ git config --global core.autocrlf true input```
 에러메시지 끄고 알아서 작업하고싶은 경우```
 git config --global core.safecrlf false```
 <br>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 818eac1a0802c3f3f355a9fa5f4332c370b6ba6b
 ##### ! [rejected] main -> main (fetch first) 
 
 원인: 원격저장소와 현재 작업중인 로컬저장소가 동기화되지 않았을때 발생<br>
