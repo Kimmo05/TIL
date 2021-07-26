@@ -1,5 +1,19 @@
-README.md 만들기
+환경 설정
+git config --global --list
+현재 설정정보 조회할 수 있습니다. --global옵션은 전역설정에 대한 옵션이며 현재 프로젝트에만 적용할때는 주지 않습니다.
+git config --global user.name "사용자명"
+사용자명을 등록합니다 (필수)
+git config --global user.email "이메일주소"
+이메일 주소를 등록합니다. (필수)
+git config --global color.ui “auto”
+터미널에 표시되는 메시지에 칼라를 표시해줌
 
+
+git의 저장소는 3가지 단계로 나누어 집니다. 커밋한 소스가 보관되는 저장소와 현재 프로젝트 파일들이 있는 작업트리, 저장소와 작업트리사이의 버퍼영역으로 커밋될 대상이 저장되는 스테이징 영역입니다.
+git은 빈 디렉토리는 추적하지 않습니다.
+형상관리를 하지 않을 파일은 .gitignore 파일에 추가합니다.
+HEAD는 현재 브랜치의 가장 최신커밋을 의미한다.
+기본원격 저장소를 origin이라고 부릅니다.
 echo "# coding-test-java" >> README.md 
 git init 
 git add README.md 
