@@ -8,3 +8,5 @@ ___
  * [숫자 정렬](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210724.md)
   * [피보나치 수열](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210725.md)
 
+   * [스택](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210727.md)
+
