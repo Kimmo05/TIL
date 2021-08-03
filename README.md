@@ -12,3 +12,6 @@ ___
    * [별찍기-10](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210729.md) 
    * [큐(Queue)](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210730.md)
    * [요세푸스](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210731.md)
+* [스택수열](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210801.md)
+ * [쇠막대기](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210802.md)
+ * [최대공약수와 최소공배수](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210803.md)
