@@ -2,16 +2,14 @@
 # TIL
 ## Algorithm <br>
 ___
- * [소수 찾기](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210722.md)
-
- * [숫자의 개수](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210723.md)
- * [숫자 정렬](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210724.md)
-  * [피보나치 수열](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210725.md)
- * [스택(Stack)](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210727.md)
-  * [팩토리얼](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210728.md)
-   * [별찍기-10](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210729.md) 
-   * [큐(Queue)](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210730.md)
-   * [요세푸스](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210731.md)
-* [스택수열](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210801.md)
- * [쇠막대기](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210802.md)
- * [최대공약수와 최소공배수](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210803.md)
+ * [if문](https://github.com/Kimmo05/TIL/tree/main/Algorithm/if%EB%AC%B8)
+ * [for문](https://github.com/Kimmo05/TIL/tree/main/Algorithm/for%EB%AC%B8)
+  * [배열](https://github.com/Kimmo05/TIL/tree/main/Algorithm/%EB%B0%B0%EC%97%B4)
+ * [기본수학](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210727.md)
+  * [재귀](https://github.com/Kimmo05/TIL/tree/main/Algorithm/%EC%9E%AC%EA%B7%80)
+   * [브루트포스](https://github.com/Kimmo05/TIL/tree/main/Algorithm/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4) 
+   * [스택](https://github.com/Kimmo05/TIL/blob/main/Algorithm/20210730.md)
+   * [큐 덱](https://github.com/Kimmo05/TIL/tree/main/Algorithm/%ED%81%90%20%EB%8D%B1)
+* [정렬](https://github.com/Kimmo05/TIL/tree/main/Algorithm/%EC%A0%95%EB%A0%AC)
+ * [정수론조합론](https://github.com/Kimmo05/TIL/tree/main/Algorithm/%EC%A0%95%EC%88%98%EB%A1%A0%EC%A1%B0%ED%95%A9%EB%A1%A0)
+ 
